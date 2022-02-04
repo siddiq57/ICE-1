@@ -19,5 +19,8 @@ public class CardDealer
         //Ahmed Nazar Siidiqui
         //991655778
         //4/2/2022
+        
+        Card nineSpades = new Card("Spd", 9);
+        nineSpades.setSuit("Spades");
     }
 }
