@@ -22,5 +22,6 @@ public class CardDealer
         
         Card nineSpades = new Card("Spades", 9);
         nineSpades.setSuit("Spades");
+        //lol
     }
 }
